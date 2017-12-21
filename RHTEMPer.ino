@@ -1,5 +1,5 @@
 // 
-//   FILE:  xindaRHTEMP.ino
+//   FILE:  RHTEMPer.ino
 // PURPOSE: DHT11-style library test sketch for Arduino and Xinda RH/TEMP sensor similar to DHT11
 //
 
