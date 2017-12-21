@@ -57,8 +57,8 @@ double dewPointFast(double celsius, double humidity)
 }
 
 
-#include <dht11.h>    //modified for xinda sensor
-#include <dht11.cpp>  //modified for xinda sensor
+#include <dht11xinda.h>    //modified for xinda sensor
+#include <dht11xinda.cpp>  //modified for xinda sensor
 dht11 DHT11;
 
 #define DHT11PIN 4
