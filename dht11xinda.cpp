@@ -28,7 +28,7 @@
        VDD(5V)   Readout(I/O)          Ground
                  
  HISTORY:
- Mod by Richard Barber - modified for xinda kit sensor
+ Mod by Richard Barber (KD6KXR)- modified for xinda kit sensor
  Mod by Joseph Dattilo (Virtuabotix LLC) - Version 0.4.5 (11/11/11)
  Mod by Joseph Dattilo (Virtuabotix LLC) - Version 0.4.0 (06/11/11)
  Mod by Rob Tillaart - Version 0.3 (28/03/2011)
